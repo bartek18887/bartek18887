@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bartek1887
 - 👀 I’m interested in Technology, programming and other stuff
-- 🌱 I’m currently learning Pythom
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me
+- 🌱 I’m currently learning Python, kinda looking for more languages but cant find anything thats comfortable
+- 📫 How to reach me: 
       Discord: Bartek1887#4438
 
 <!---
