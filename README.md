@@ -1,6 +1,3 @@
 Hello!
 
-<!---
-bartek18887/bartek18887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you ever need to contact me, you can open an issue on bartek18887/ComputerCraft-FlappyBird , as I have notifications on there. I'll probably set an email soon, but until then, thats the only way.
